@@ -12,15 +12,9 @@
         "save"
       ]
     },
-    "vue-cli-plugin-bootstrap-vue": {
-      "prompts": true
-    },
-    "@aiping/vue-cli-plugin-axios": {
-      "prompts": true
-    },
-    "vue-cli-plugin-fontawesome": {
-      "prompts": true
-    }
+    "vue-cli-plugin-bootstrap-vue": {},
+    "@aiping/vue-cli-plugin-axios": {},
+    "vue-cli-plugin-fontawesome": {}
   },
   "vueVersion": "2",
   "cssPreprocessor": "dart-sass",
