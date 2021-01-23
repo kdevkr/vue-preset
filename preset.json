@@ -13,7 +13,6 @@
       ]
     },
     "vue-cli-plugin-bootstrap-vue": {},
-    "@aiping/vue-cli-plugin-axios": {},
     "vue-cli-plugin-fontawesome": {}
   },
   "vueVersion": "2",
