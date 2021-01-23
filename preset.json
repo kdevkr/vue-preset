@@ -1,0 +1,34 @@
+{
+  "useConfigFiles": true,
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "@vue/cli-plugin-router": {
+      "historyMode": true
+    },
+    "@vue/cli-plugin-vuex": {},
+    "@vue/cli-plugin-eslint": {
+      "config": "prettier",
+      "lintOn": [
+        "save"
+      ]
+    },
+    "vue-cli-plugin-bootstrap-vue": {
+      "prompts": true
+    },
+    "@aiping/vue-cli-plugin-axios": {
+      "prompts": true
+    },
+    "vue-cli-plugin-fontawesome": {
+      "prompts": true
+    }
+  },
+  "vueVersion": "2",
+  "cssPreprocessor": "dart-sass",
+  "configs": {
+    "vue": {
+      "devServer": {
+        "disableHostCheck": true
+      }
+    }
+  }
+}
